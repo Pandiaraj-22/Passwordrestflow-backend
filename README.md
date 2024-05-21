@@ -39,14 +39,14 @@ Explain how authentication is handled in your application.
 [Click to Open the Live API](https://forgotpasswoed.onrender.com)
 
 ## Demo
-![image](https://github.com/Suryaprakash-G26/Forgotpassword_Backend/assets/141228691/d72aa86b-d506-4ada-8da9-444a2a696a46)
+![image](./images/screenshot.png)
 
 
 ## Contact
 
 Feel free to reach out if you have any questions or suggestions:
 
-- [GitHub](https://github.com/Suryaprakash-G26)
-- [LinkedIn](https://www.linkedin.com/in/surya-prakash-6b2914191/)
+- [GitHub](https://github.com/Pandiaraj-22)
+- [LinkedIn](https://www.linkedin.com/in/pandiaraj-m-4531b6285)
 
 Happy coding! 🚀
