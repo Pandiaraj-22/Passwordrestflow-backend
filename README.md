@@ -34,10 +34,6 @@ This repository contains the implementation of the "Forgot Password" feature for
 
 Explain how authentication is handled in your application.
 
-## Live API
-
-[Click to Open the Live API](https://forgotpasswoed.onrender.com)
-
 ## Demo
 ![image](./images/screenshot.png)
 
